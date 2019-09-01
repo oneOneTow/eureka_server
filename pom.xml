@@ -37,7 +37,7 @@
                 <configuration>
                     <fork>true</fork>
                     <!--必须指定主函数不然java -jar找不到主函数-->
-                    <mainClass>com.ccbcfx.learn.EurekaApplication</mainClass>
+                    <mainClass>com.luzhiqing.bamboo.EurekaApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
